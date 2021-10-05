@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/generalScreen"
+        android:icon="@drawable/icon_money"
+        android:title="Exchange rate" />
+    <item
+        android:id="@+id/converterScreen"
+        android:icon="@drawable/icon_converter"
+        android:title="Converter" />
+</menu>
